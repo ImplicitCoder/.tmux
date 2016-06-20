@@ -2,4 +2,4 @@
 
 Do not forget to symlink .tmux.conf to home
 ```
-ln -s ~/.tmux.conf ~/.tmux/.tmux.conf
+ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
